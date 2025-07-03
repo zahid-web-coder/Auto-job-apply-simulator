@@ -1,4 +1,4 @@
-# 🤖 Auto Job Apply Simulator – Internshala Bot
+# 🤖 Auto Job Apply Simulator – Internshala,Linkdin,Naukri Bot
 
 A Python automation script that applies to internships on Internshala based on your preferences. Built using Selenium WebDriver, this bot simulates a user logging in, finding relevant jobs, and applying with a resume and custom cover letter.
 
@@ -31,9 +31,6 @@ A Python automation script that applies to internships on Internshala based on y
    cd Auto-job-apply-simulator
 Install dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Download ChromeDriver
 Get ChromeDriver here
@@ -43,9 +40,7 @@ Create your .env file
 
 Copy .env.example and rename it to .env:
 
-env
-Copy
-Edit
+
 INTERNSHALA_EMAIL=your@email.com
 INTERNSHALA_PASSWORD=yourpassword123
 Add your resume and cover letter
@@ -55,9 +50,7 @@ resume.pdf → your resume
 cover_letter.txt → your generic or custom message
 
 ▶️ Run the Script
-bash
-Copy
-Edit
+
 python auto_apply_internshala.py
 It will:
 
@@ -94,18 +87,4 @@ Internshala's terms of service may prohibit automated activity.
 ✨ Author
 Mohammed Zahid – aspiring developer with a passion for automation, Python, and building helpful tools.
 
-📬 Want More?
-Star ⭐ the repo if this helped you, and feel free to contribute!
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want:
-- A shorter version for LinkedIn post 📣  
-- A “How I Built This” blog-style writeup ✍️  
-- Or want to build a similar one for **LinkedIn or Naukri**?
-
-You're doing awesome — this project is resume and recruiter-ready now.
