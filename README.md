@@ -1,6 +1,6 @@
 # 🤖 Auto Job Apply Simulator – Internshala,Linkdin,Naukri Bot
 
-A Python automation script that applies to internships on Internshala, Linkedin and Naukri based on your preferences. Built using Selenium WebDriver, this bot simulates a user logging in, finding relevant jobs, and applying with a resume and custom cover letter.
+A Python automation script that applies to Jobs and internships on Internshala, Linkedin and Naukri based on your preferences. Built using Selenium WebDriver, this bot simulates a user logging in, finding relevant jobs, and applying with a resume and custom cover letter.
 
 ## 🚀 Features
 
